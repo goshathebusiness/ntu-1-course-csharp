@@ -1,0 +1,15 @@
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/bin/Debug/net7.0/l1
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/bin/Debug/net7.0/l1.deps.json
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/bin/Debug/net7.0/l1.runtimeconfig.json
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/bin/Debug/net7.0/l1.dll
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/bin/Debug/net7.0/l1.pdb
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.csproj.AssemblyReference.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.GeneratedMSBuildEditorConfig.editorconfig
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.AssemblyInfoInputs.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.AssemblyInfo.cs
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.csproj.CoreCompileInputs.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.dll
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/refint/l1.dll
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.pdb
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/l1.genruntimeconfig.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l1/obj/Debug/net7.0/ref/l1.dll
