@@ -1,4 +1,4 @@
-﻿namespace l1
+﻿namespace l2
 {
     class Program
     {
