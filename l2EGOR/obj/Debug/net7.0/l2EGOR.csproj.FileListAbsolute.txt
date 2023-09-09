@@ -1,0 +1,15 @@
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/bin/Debug/net7.0/l2EGOR
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/bin/Debug/net7.0/l2EGOR.deps.json
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/bin/Debug/net7.0/l2EGOR.runtimeconfig.json
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/bin/Debug/net7.0/l2EGOR.dll
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/bin/Debug/net7.0/l2EGOR.pdb
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.csproj.AssemblyReference.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.GeneratedMSBuildEditorConfig.editorconfig
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.AssemblyInfoInputs.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.AssemblyInfo.cs
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.csproj.CoreCompileInputs.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.dll
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/refint/l2EGOR.dll
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.pdb
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/l2EGOR.genruntimeconfig.cache
+/home/illia/RiderProjects/ntu-1-course-csharp/l2EGOR/obj/Debug/net7.0/ref/l2EGOR.dll
