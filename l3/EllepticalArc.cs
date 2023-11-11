@@ -2,7 +2,16 @@ namespace l3;
 
 public class EllepticalArc : CPoint
 {
-    public double StartAngle ,EndAngle;
+    public double StartAngle
+    {
+        get;
+        set;
+    }
+    public double EndAngle
+    {
+        get;
+        set;
+    }
 
     public EllepticalArc()
     {
@@ -14,22 +23,12 @@ public class EllepticalArc : CPoint
         Console.WriteLine("EllecticalArc successfully destroyed");
     }
 
-    public void SetAngles(double startAngle, double endAngle)
-    {
-        StartAngle = startAngle;
-        EndAngle = endAngle;
-    }
 
-    public double[] GetAngles()
-    {
-        return new[] { StartAngle, EndAngle };
-    }
-
-    public void Show()
+    public new void Show()
     {
         Console.WriteLine($"This is {GetType().Name} object with properties:\n" +
-                          $"x = {x}\n" +
-                          $"y = {y}\n" +
+                          $"x = {X}\n" +
+                          $"y = {Y}\n" +
                           $"starting angle = { StartAngle }\n" +
                           $"ending angle = { EndAngle }\n");
     }

@@ -4,15 +4,17 @@
     {
         static void Main(string[] args)
         {
-            CPoint point = new CPoint();
-            point.SetCords(14.1, 36);
+            var point = new CPoint();
+            point.X = 14.1;
+            point.Y = 36;
             point.Show();
 
-            EllepticalArc eArc = new EllepticalArc();
-            eArc.SetCords(0.2, 12.556);
-            eArc.SetAngles(45, 66.6);
+            var eArc = new EllepticalArc();
+            eArc.X = 0.2;
+            eArc.Y = 12.556;
+            eArc.StartAngle = 45;
+            eArc.EndAngle = 66.6;
             eArc.Show();
-
         }
     }
 }

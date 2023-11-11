@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8Cz2PRdMq1rLIohImfgMIZfKlMLcH6Yl5CHoPFVRmdWT1gfzzn9DAI0hF6QoodjeTabGmeyPsLXgoIEJQ/zbiA==",
+  "dgSpecHash": "5wrLWj0B57BJdaZihangjd1llQtXBDbGqWPHv28GDYGqfjw9nOG7MlDer4QZwtLT55SGRXoYHIux9cD7wDeBGA==",
   "success": true,
   "projectFilePath": "/home/illia/RiderProjects/ntu-1-course-csharp/l1/l1.csproj",
   "expectedPackageFiles": [
-    "/home/illia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+    "/home/illia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
   ],
   "logs": []
 }
