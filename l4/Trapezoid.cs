@@ -6,4 +6,9 @@ public class Trapezoid : CGraphicsObject
     public double BottomBase { get; set; }
     public double LeftSide { get; set; }
 	public double RightSide { get; set; }
+
+	public override double GetPerimeter()
+	{
+		return TopBase + BottomBase + LeftSide + RightSide;
+	}
 }

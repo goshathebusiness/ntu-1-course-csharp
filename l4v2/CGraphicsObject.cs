@@ -1,6 +1,6 @@
 using System.Reflection;
 
-namespace l4;
+namespace l4v2;
 
 public class CGraphicsObject
 {
@@ -26,21 +26,13 @@ public class CGraphicsObject
         }
     }
 
-    public virtual double GetPerimeter()
+    public virtual double GetArea()
     {
         return 0;
     }
 
-    public static bool operator ==(CGraphicsObject obj1, CGraphicsObject obj2)
+    public static double operator -(CGraphicsObject obj1, CGraphicsObject obj2)
     {
-        if (ReferenceEquals(obj1, obj2))
-            return true;
-
-        return obj1.GetPerimeter().Equals(obj2.GetPerimeter());
-    }
-
-    public static bool operator !=(CGraphicsObject obj1, CGraphicsObject obj2)
-    {
-        return !(obj1 == obj2);
+        return obj1.GetArea() - obj2.GetArea();
     }
 }
