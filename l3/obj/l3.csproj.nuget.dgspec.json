@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/illia/RiderProjects/ntu-1-course-csharp/l3/l3.csproj": {}
+    "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l3/l3.csproj": {}
   },
   "projects": {
-    "/home/illia/RiderProjects/ntu-1-course-csharp/l3/l3.csproj": {
+    "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l3/l3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/illia/RiderProjects/ntu-1-course-csharp/l3/l3.csproj",
+        "projectUniqueName": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l3/l3.csproj",
         "projectName": "l3",
-        "projectPath": "/home/illia/RiderProjects/ntu-1-course-csharp/l3/l3.csproj",
+        "projectPath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l3/l3.csproj",
         "packagesPath": "/home/illia/.nuget/packages/",
-        "outputPath": "/home/illia/RiderProjects/ntu-1-course-csharp/l3/obj/",
+        "outputPath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/illia/.nuget/NuGet/NuGet.Config"

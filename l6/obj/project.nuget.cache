@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRcMvgYa9kLGdbC9vZ/J+tZ5VVjkvKaHvlyvx/Jns4rhnbqGtTW75fMJErQjUlX+ITTGY20r5ppsbrGpoPD7ow==",
+  "success": true,
+  "projectFilePath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l6/l6.csproj",
+  "expectedPackageFiles": [
+    "/home/illia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

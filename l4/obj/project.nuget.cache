@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtDZEGVB8AsdHGzZZOJmyLZ1JeepnN9wZISrKrLVjsIwaqoZqRPKBA51Sje9b+UfMJ74AG25vkw03YLwurHirA==",
+  "dgSpecHash": "zgti6IZu8tbJITLdDvhH5XIu1rXU3oatL1p6G6wBz7TFqlEz3Gpk5AyeeCm01oIIXTf8k96mSS+JA/vFBY+w4g==",
   "success": true,
-  "projectFilePath": "/home/illia/RiderProjects/ntu-1-course-csharp/l4/l4.csproj",
+  "projectFilePath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l4/l4.csproj",
   "expectedPackageFiles": [
     "/home/illia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
   ],

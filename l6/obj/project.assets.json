@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l4/l4.csproj",
-      "projectName": "l4",
-      "projectPath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l4/l4.csproj",
+      "projectUniqueName": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l6/l6.csproj",
+      "projectName": "l6",
+      "projectPath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l6/l6.csproj",
       "packagesPath": "/home/illia/.nuget/packages/",
-      "outputPath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l4/obj/",
+      "outputPath": "/home/illia/RiderProjects/ntu-1-course-csharp/ntu-1-course-csharp/l6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/illia/.nuget/NuGet/NuGet.Config"
